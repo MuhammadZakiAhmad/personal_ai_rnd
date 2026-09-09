@@ -6,7 +6,7 @@ My personal repository focused on rigorous, mathematically grounded implementati
 
 ## Implementations
 
-### Core Architectures
+### Core LLM Architectures from Scratch
 
 | Directory                  | Description                         |
 | -------------------------- | ----------------------------------- |
@@ -14,7 +14,7 @@ My personal repository focused on rigorous, mathematically grounded implementati
 | `LLM_gemma_from_scratch/`  | Gemma architecture in native Python |
 | `LLM_qwen_3_from_scratch/` | Qwen 3 in PyTorch                   |
 
-### Transformer Primitives
+### Transformers Internals
 
 | File                             | Description                               |
 | -------------------------------- | ----------------------------------------- |
@@ -22,7 +22,7 @@ My personal repository focused on rigorous, mathematically grounded implementati
 | `ROPE.PY`                        | Rotary Positional Embeddings (RoPE)       |
 | `ROPE_MLA.ipynb`                 | RoPE + Multi-Latent Attention exploration |
 
-### Vision-Language Models
+### Core Vision-Language Models from Scratch
 
 | Directory                    | Description                      |
 | ---------------------------- | -------------------------------- |
