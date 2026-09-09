@@ -1,63 +1,51 @@
 # AI Research & Development
 
-My Personal repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models -- bypassing high-level abstractions in favor of first-principles understanding, this personal learning serves as my foundations for the R&D Projects I carry out at NAMETA Labs.
+My personal repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models — bypassing high-level abstractions in favor of first-principles understanding. This personal learning serves as the foundation for the R&D projects I carry out at NAMETA Labs.
 
----
 ---
 
 ## Implementations
 
 ### Core Architectures
-| Directory | Description |
-|---|---|
-| `LLM_GPT_2_from_scratch/` | GPT-2 from scratch (Raschka-based) |
-| `LLM_gemma_from_scratch/` | Gemma architecture in native Python |
-| `LLM_qwen_3_from_scratch/` | Qwen 3 in PyTorch |
+
+| Directory                  | Description                         |
+| -------------------------- | ----------------------------------- |
+| `LLM_GPT_2_from_scratch/`  | GPT-2 from scratch (Raschka-based)  |
+| `LLM_gemma_from_scratch/`  | Gemma architecture in native Python |
+| `LLM_qwen_3_from_scratch/` | Qwen 3 in PyTorch                   |
 
 ### Transformer Primitives
-| File | Description |
-|---|---|
-| `SELF_ATTENTION_FROM_SCRATCH.PY` | Scaled dot-product self-attention |
-| `ROPE.PY` | Rotary Positional Embeddings (RoPE) |
-| `ROPE_MLA.ipynb` | RoPE + Multi-Latent Attention exploration |
+
+| File                             | Description                               |
+| -------------------------------- | ----------------------------------------- |
+| `SELF_ATTENTION_FROM_SCRATCH.PY` | Scaled dot-product self-attention         |
+| `ROPE.PY`                        | Rotary Positional Embeddings (RoPE)       |
+| `ROPE_MLA.ipynb`                 | RoPE + Multi-Latent Attention exploration |
 
 ### Vision-Language Models
-| Directory | Description |
-|---|---|
-| `VLM_clip_style_nanovlm/` | CLIP-style VLM |
+
+| Directory                    | Description                      |
+| ---------------------------- | -------------------------------- |
+| `VLM_clip_style_nanovlm/`    | CLIP-style VLM                   |
 | `VLM_paligema_from_scratch/` | PaLiGemma-style VLM from scratch |
 
 ---
 
 ## Computer Vision Projects
 
-### 1. Football Match Analysis · [repo](https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject)
-Object detection, multi-object tracking, team assignment via K-Means clustering, and real-time ball possession analysis on match video. Uses YOLOv8 for detection and ByteTrack for tracking.
-`YOLOv8 · ByteTrack · K-Means · OpenCV · Supervision · Pandas`
+| Project                                                                                                                               | Description                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Football Match Analysis](https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject)                                             | Object detection, multi-object tracking, team assignment via K-Means clustering, and real-time ball possession analysis on match video. Uses YOLOv8 for detection and ByteTrack for tracking. |
+| [Virtual Try-On (Digital Mannequin)](https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops)                             | Generates a 3D digital model from user-uploaded photos for virtual clothing try-on, with motion visualization and a customizable catalog. Targets reduction of return rates in e-commerce.    |
+| [AI Physiotherapy Trainer](https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-)                                            | Real-time pose estimation for patient exercise monitoring. Detects and tracks human poses to count repetitions and provide live feedback during physiotherapy sessions.                       |
+| [Smart Car Detection & Counting](https://github.com/MuhammadZakiAhmad/cvProject2_carCounterUsingYOLOv8)                               | Defines a Region of Interest for vehicle counting, applies object tracking, and visualizes counts in real time using YOLOv8.                                                                  |
+| [Automatic Number Plate Recognition (ANPR)](https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8)                                     | Detects vehicles, localizes license plates, reads plate numbers via OCR, and logs the data. Combines detection, tracking, and text recognition in a single pipeline.                          |
+| [Human Emotion Detection](https://github.com/MuhammadZakiAhmad/HumanEmotionDetection)                                                 | Image classifier trained from scratch on FER-2013 (48×48 grayscale faces) to recognize seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.                               |
+| [Chest Cancer Classification (MLflow + DVC)](https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC) | End-to-end ML pipeline for chest cancer classification from images, with a user-facing upload interface. Covers experiment tracking, data versioning, and cloud deployment.                   |
 
-### 7. Virtual Try-On (Digital Mannequin) · [repo](https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops)
-Generates a 3D digital model from user-uploaded photos for virtual clothing try-on, with motion visualization and a customizable catalog. Targets reduction of return rates in e-commerce.
-`PyTorch3D · PyTorch · Unity · C#`
+### Computer Vision Stack
 
-### 3. AI Physiotherapy Trainer · [repo](https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-)
-Real-time pose estimation for patient exercise monitoring. Detects and tracks human poses to count repetitions and provide live feedback during physiotherapy sessions.
-`OpenCV · Mediapipe`
-
-### 4. Smart Car Detection & Counting · [repo](https://github.com/MuhammadZakiAhmad/cvProject2_carCounterUsingYOLOv8)
-Defines a Region of Interest for vehicle counting, applies object tracking, and visualizes counts in real-time using YOLOv8.
-`YOLOv8 · OpenCV`
-
-### 5. Automatic Number Plate Recognition (ANPR) · [repo](https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8)
-Detects vehicles, localizes license plates, reads plate numbers via OCR, and logs the data. Combines detection, tracking, and text recognition in a single pipeline.
-`YOLOv8 · EasyOCR · SORT · OpenCV`
-
-### 6. Human Emotion Detection · [repo](https://github.com/MuhammadZakiAhmad/HumanEmotionDetection)
-Image classifier trained from scratch on FER-2013 (48×48 grayscale faces) to recognize 7 emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral.
-`TensorFlow · Keras · NumPy · Pandas · Matplotlib`
-
-### 7. Chest Cancer Classification (MLflow + DVC) · [repo](https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC)
-End-to-end ML pipeline for chest cancer classification from images, with a user-facing upload interface. Covers the full production lifecycle: experiment tracking, data versioning, and cloud deployment.
-`TensorFlow · Keras · MLflow · DVC · DagsHub · AWS · GitHub Actions`
+`YOLOv8 · ByteTrack · K-Means · OpenCV · Supervision · Pandas · PyTorch3D · PyTorch · Unity · C# · Mediapipe · EasyOCR · SORT · TensorFlow · Keras · NumPy · Matplotlib · MLflow · DVC · DagsHub · AWS · GitHub Actions`
 
 ---
 
