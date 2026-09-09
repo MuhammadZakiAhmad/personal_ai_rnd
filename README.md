@@ -1,6 +1,6 @@
 # AI Research & Development
 
-My Personal and collaborative R&D repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models -- bypassing high-level abstractions in favor of first-principles understanding along with all the research work I am currently involved in wrt personal interest or part of NEMTA LABS.
+My Personal repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models -- bypassing high-level abstractions in favor of first-principles understanding, this personal learning serves as my foundations for the R&D Projects I carry out at NAMETA Labs.
 
 ---
 ---
