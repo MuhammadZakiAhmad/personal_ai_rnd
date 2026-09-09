@@ -1,6 +1,6 @@
 # AI Research & Development
 
-My personal repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models — bypassing high-level abstractions in favor of first-principles understanding. This personal learning serves as the foundation for the R&D projects I carry out at NAMETA Labs.
+My personal repository focused on rigorous, mathematically grounded implementations of LLMs, VLMs, and World Models bypassing high-level abstractions in favor of first-principles understanding. This personal learning serves as the foundation for the R&D projects I carry out at NAMETA Labs.
 
 ---
 
@@ -53,4 +53,4 @@ My personal repository focused on rigorous, mathematically grounded implementati
 
 ---
 
-**Stack:** Python · PyTorch · TensorFlow
+
