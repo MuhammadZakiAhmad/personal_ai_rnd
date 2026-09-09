@@ -29,6 +29,12 @@ My personal repository focused on rigorous, mathematically grounded implementati
 | `VLM_clip_style_nanovlm/`    | CLIP-style VLM                   |
 | `VLM_paligema_from_scratch/` | PaLiGemma-style VLM from scratch |
 
+### World Models
+
+| File                                            | Description                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `WorldModel_PONGGAME_NextFramePrediction.ipynb` | World model for Pong focused on next-frame prediction. Learns the temporal dynamics of the game environment by predicting future game frames from preceding observations, providing a foundation for modeling environment dynamics and learning predictive representations of the world. |
+
 ---
 
 ## Computer Vision Projects
