@@ -49,9 +49,7 @@ My personal repository focused on rigorous, mathematically grounded implementati
 | [Human Emotion Detection](https://github.com/MuhammadZakiAhmad/HumanEmotionDetection)                                                 | Image classifier trained from scratch on FER-2013 (48×48 grayscale faces) to recognize seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.                               |
 | [Chest Cancer Classification (MLflow + DVC)](https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC) | End-to-end ML pipeline for chest cancer classification from images, with a user-facing upload interface. Covers experiment tracking, data versioning, and cloud deployment.                   |
 
-### Computer Vision Stack
 
-`YOLOv8 · ByteTrack · K-Means · OpenCV · Supervision · Pandas · PyTorch3D · PyTorch · Unity · C# · Mediapipe · EasyOCR · SORT · TensorFlow · Keras · NumPy · Matplotlib · MLflow · DVC · DagsHub · AWS · GitHub Actions`
 
 ---
 
