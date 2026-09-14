@@ -13,9 +13,9 @@ My primary interests include **foundation models, large language models, vision-
 ## Research Interests
 
 **Foundation Models**
-LLM architectures, Transformer architectures, efficient attention, positional representations
+LLM/VLM architectures, Transformer architectures, efficient attention, positional representations
 
-**LLM Reasoning**
+**LLM/VLM Reasoning**
 Reasoning enhancement, representation learning, distillation, parameter-efficient adaptation
 
 **Agentic AI**
@@ -24,11 +24,11 @@ Planning, tool use, memory, multi-step execution, multi-agent systems
 **Multimodal Learning**
 Vision-language models, multimodal representations, visual-textual learning
 
-**World Models**
-Predictive learning, temporal dynamics, environment modelling
+**Information Retrieval for AI Agents(RAGs/Graphs)**
+Text to SQL Systems, GraphRAGs, knowledge Engineering
 
-**Computer Vision**
-Object detection, tracking, pose estimation, 3D human reconstruction
+**World Models and Reinforcement Learning**
+Predictive learning, temporal dynamics, environment modelling
 
 ---
 
