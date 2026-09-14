@@ -4,7 +4,7 @@
 
 This repository documents my exploration of modern artificial intelligence through **first-principles implementations, architectural studies, and applied experiments**.
 
-My primary interests include **foundation models, large language models, vision-language models, agentic AI, representation learning, and world models**. I use implementation as a way to develop a deeper understanding of the architectural, mathematical, and computational foundations underlying modern AI systems.
+My primary interests include **foundation models, large language models, vision-language models, agentic AI, representation learning, RAGs and world models**. I use implementation as a way to develop a deeper understanding of the architectural, mathematical, and computational foundations underlying modern AI systems.
 
 > **Scope:** This repository contains a combination of educational implementations, architectural reproductions, and applied projects. Implementations of existing architectures are intended for learning and experimentation and are not presented as original model contributions.
 
