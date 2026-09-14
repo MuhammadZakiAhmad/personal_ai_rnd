@@ -11,7 +11,8 @@ My primary interests include **foundation models, large language models, vision-
 ---
 ## Work Description
 
-The major chunk of my professional work involved Research and Development i.e developers encountered a problem while designing a solution for a client like low recall rate in info retrieval, context overload in small contect windows, ineffective agent to agent communication in task deligation, llm security, reasoning failures, silent RAG failures etc. My job primarily involved reading and understanding research papers related to the specific problem at hand, come up with a solution and test it, once finalized make it work on scale.
+*The major chunk of my professional work involved Research and Development i.e developers encountered a problem while designing a solution for a client like low recall rate in info retrieval, context overload in small contect windows, ineffective agent to agent communication in task deligation, llm security, reasoning failures, silent RAG failures etc. My job primarily involved reading and understanding research papers related to the specific problem at hand, come up with a solution and test it, once finalized make it work on scale.*
+
 ---
 
 ## Research Interests
