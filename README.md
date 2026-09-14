@@ -9,11 +9,9 @@ My primary interests include **foundation models, large language models, vision-
 > **Scope:** This repository contains a combination of educational implementations, architectural reproductions, and applied projects. Implementations of existing architectures are intended for learning and experimentation and are not presented as original model contributions.
 
 ---
-
----
 ## Work Description
 
-The major chunk of my professional work involved Research and Development i.e Developers encountered a problem while designing a solution for a client like low recall rate in info retrieval, context overload in llms, ineffective agent to agent communication, llm security, reasoning failures, RAG failures etc. My job primarily involved reading and understanding research papers related to the problem at hand, come up with a solution and test it, once finalized make it work on scale.
+The major chunk of my professional work involved Research and Development i.e developers encountered a problem while designing a solution for a client like low recall rate in info retrieval, context overload in llms, ineffective agent to agent communication, llm security, reasoning failures, RAG failures etc. My job primarily involved reading and understanding research papers related to the problem at hand, come up with a solution and test it, once finalized make it work on scale.
 
 ---
 
