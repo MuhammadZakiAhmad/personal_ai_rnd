@@ -4,14 +4,14 @@
 
 This repository documents my exploration of modern artificial intelligence through **first-principles implementations, architectural studies, and applied experiments**.
 
-My primary interests include **foundation models, large language models, vision-language models, agentic AI, representation learning, RAGs and world models**. I use implementation as a way to develop a deeper understanding of the architectural, mathematical, and computational foundations underlying modern AI systems.
+I use step by step hands on implementation as a way to develop a deeper understanding of the architectural, mathematical, and computational foundations underlying modern AI systems.
 
 > **Scope:** This repository contains a combination of educational implementations, architectural reproductions, and applied projects. Implementations of existing architectures are intended for learning and experimentation and are not presented as original model contributions.
 
 ---
 ## Work Description
 
-*The major chunk of my professional work involved Research and Development i.e developers encountered a problem while designing a solution for a client like low recall rate in info retrieval, context overload in small context windows, ineffective agent to agent communication in task delegation, llm security, reasoning compute causing low ttft, silent RAG failures etc. ***My job primarily involved reading and understanding research papers related to the specific problem at hand, come up with a solution and test it, once finalized make it work on scale.***
+*The major chunk of my professional work involved Research and Development i.e developers encountered a problem while designing a solution for a client like reasoning trajectory divergence, low recall rate in info retrieval, context overload in small context windows, ineffective agent to agent communication in task delegation, llm security, reasoning compute causing low ttft, silent RAG failures etc. ***My job primarily involved reading and understanding research papers related to the specific problem at hand, come up with a solution and test it, once finalized make it work on scale.***
 
 ---
 
@@ -20,11 +20,11 @@ My primary interests include **foundation models, large language models, vision-
 **Foundation Models**
 LLM/VLM architectures, Transformer architectures, efficient attention, positional representations
 
-**LLM/VLM Reasoning**
-Reasoning enhancement, representation learning, distillation, parameter-efficient adaptation
+**LLM/VLM Reasoning and its applications**
+System 1/System 2 Thinking, reasoning enhancement, representation learning, reasoning distillation, parameter-efficient adaptation
 
 **Agentic AI**
-Planning, tool use, memory, multi-step execution, multi-agent systems
+Planning, tool use, memory, multi-step execution, multi-agent systems for applications in medical, cyber, disaster recovery, incident response, and elderly care etc
 
 **Multimodal Learning**
 Vision-language models, multimodal representations, visual-textual learning
