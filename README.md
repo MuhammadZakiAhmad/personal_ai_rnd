@@ -56,6 +56,7 @@ A central focus of this repository is implementing modern AI architectures and t
 | [`SELF_ATTENTION_FROM_SCRATCH.PY`](./SELF_ATTENTION_FROM_SCRATCH.PY) | Scaled dot-product self-attention implemented from first principles         |
 | [`ROPE.PY`](./ROPE.PY)                                               | Rotary Positional Embeddings (RoPE)                                         |
 | [`ROPE_MLA.ipynb`](./ROPE_MLA.ipynb)                                 | Exploration of Rotary Positional Embeddings and Multi-Head Latent Attention |
+| [`RLHF.ipynb`](./RLHF.ipynb)                                         | Exploration of reasoning induction in LLMs via RL |
 
 ## Vision-Language Models
 
