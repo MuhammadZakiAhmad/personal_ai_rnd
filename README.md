@@ -18,12 +18,12 @@ I use step by step hands on implementation as a way to develop a deeper understa
 ## Research Interests
 
 **Foundation Models**
-LLM/VLM architectures, Transformer architectures, efficient attention, positional representations
+LLM/VLM optimization, quantization, efficient attention, positional representations, mixture of experts, scalable inference
 
 **LLM/VLM Reasoning and its applications**
-System 1/System 2 Thinking, reasoning enhancement, representation learning, reasoning distillation, parameter-efficient adaptation
+System 1/System 2 Thinking, neuro-symbolic reasoning, reasoning enhancement, representation learning, reasoning distillation, parameter-efficient adaptation, language of thoughts (LoT)
 
-**Agentic AI**
+**LLM/VLM application in Agentic AI**
 Planning, tool use, memory, multi-step execution, multi-agent systems for applications in medical, cyber, disaster recovery, incident response, and elderly care etc
 
 **Multimodal Learning**
