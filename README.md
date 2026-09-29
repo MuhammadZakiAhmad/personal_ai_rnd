@@ -17,11 +17,11 @@ I use step by step hands on implementation as a way to develop a deeper understa
 
 ## Research Interests
 
-**Foundation Models**
-LLM/VLM optimization, quantization, efficient attention, positional representations, mixture of experts, scalable inference, (PEFT, LoRA/QLoRA)
-
 **LLM/VLM Reasoning and its applications**
-System 1/System 2 Thinking, neuro-symbolic reasoning, reasoning enhancement, representation learning, reasoning distillation, parameter-efficient adaptation, language of thoughts (LoT), chain of Thought (CoT)
+System 1/System 2 Thinking, neuro-symbolic reasoning, reasoning enhancement, representation learning, reasoning distillation, parameter-efficient adaptation, language of thoughts (LoT), chain of Thought (CoT), test time scaling
+
+**Foundation Models and their optimization wrt Application under consideration**
+LLM/VLM optimization, quantization, efficient attention, positional representations, mixture of experts, scalable inference, (PEFT, LoRA/QLoRA)
 
 **LLM/VLM application in Agentic AI**
 Planning, tool use, memory, multi-step execution, multi-agent systems for applications in medical, cyber, disaster recovery, incident response, and elderly care etc
