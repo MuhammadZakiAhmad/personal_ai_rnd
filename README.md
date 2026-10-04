@@ -18,7 +18,7 @@ I use step by step hands on implementation as a way to develop a deeper understa
 ## Research Interests
 
 **LLM/VLM Reasoning and its applications**
-System 1/System 2 Thinking, neuro-symbolic reasoning, reasoning enhancement, representation learning, reasoning distillation, language of thoughts (LoT), chain of Thought (CoT), test time scaling
+System 1/System 2 Thinking, neuro-symbolic reasoning, reasoning enhancement, representation learning, reasoning distillation, language of thoughts (LoT), chain of Thought (CoT), test time scaling, RL for LLM Reasoning
 
 **Foundation Models and their optimization wrt Application under consideration**
 LLM/VLM optimization, quantization, efficient attention, positional representations, mixture of experts, scalable inference, parameter-efficient adaptation (PEFT, LoRA/QLoRA)
