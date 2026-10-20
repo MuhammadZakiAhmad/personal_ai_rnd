@@ -42,14 +42,23 @@ Predictive learning, temporal dynamics, environment modelling
 ### Attention Calibration Distillation for Demonstration-Free Text Reasoning
 
 - **Status:** Paused
+- **Link:** https://github.com/MuhammadZakiAhmad/personal_ai_rnd/tree/main/RESEARCH_Attention_Calibration_Distillation_for_Demonstration-Free_Text_Reasoning
 - Exploring whether Chain-of-Thought reasoning from a larger teacher can be distilled into a smaller zero-shot student through attention calibration and hidden-state distillation.
 - Initial experiments achieved 45% accuracy on a held-out BBH evaluation against a 0% zero-shot baseline; further scaling was paused due to compute and data constraints.
 
 ### THOUGHTCOMM: Latent Communication Among Multi-Agent LLMs
 
-- **Status:** In Progress
+- **Status:** Paused
+- **Link:** https://github.com/MuhammadZakiAhmad/personal_ai_rnd/tree/main/RESEARCH_Thought%20Transfer%20Among%20Multi-Agents%20via%20Shared%20Vector%20Space
 - Exploring communication between LLM agents through learned latent representations rather than natural-language messages.
-- Reimplementing the core ideas using sparse autoencoders and lightweight adapters to investigate whether specialized latent representations can serve as an efficient communication space between agents.
+- Reimplementing the core ideas using sparse autoencoders and lightweight adapters to investigate whether specialized latent representations can serve as an efficient communication space between agents, further scaling was paused due to compute constraints and OOM on colab. I am currently looking for a workaround via quantization and training only the ending layer via LoRA.
+
+### Reasoning Vs Non Reasoning LLM Model's Attention Comparison
+
+- **Status:** In Progress
+- **Link:** https://github.com/MuhammadZakiAhmad/reasoning_vs_nonreasoning_llm_comparison
+- Exploring where is the most "concentration/attention" of the model when given the same prompt, but reasoning turned on Vs off.
+- It will help in terms of Explanable AI (xAI), to understand how attention patterns differ when modle is a non reasoning vs non reasoning one and ALSO model puts different attention when deliberating Vs answering. 
 
   ---
   
