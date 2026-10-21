@@ -66,7 +66,7 @@ Predictive learning, temporal dynamics, environment modelling
 - **Link:** [Demonstration of LLM Disobedience: Training Vs Prompt Instructions Conflict](https://github.com/MuhammadZakiAhmad/demonstration_LLM_Disobedience)
 - This project explores the phenomenon when an LLM is asked to do a task which conflicts with its training.
 - The model (Qwen3-1.7B) was prompted to produce emails but explicitly instructed to not use the hyphen symbol "-", out of 50 instances it failed to do so in 7 of responses in both the body and subject.
-- Upon availability of compute, the next step would be to mitigate it via SFT and RL seperately and see which technique brought better results then I would study the internals of the model to understand what internally caused the improvement and what caused more improvement via one technqiue and other produced less improvement.
+- Upon availability of compute, the next step would be to mitigate it via SFT and RL seperately and see which technique brought better results then I would study the internals of the model to understand what internally caused the improvement, then would compare internaly why one technique improved more than the other.
 
   ---
   
