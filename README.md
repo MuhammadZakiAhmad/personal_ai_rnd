@@ -58,7 +58,7 @@ Predictive learning, temporal dynamics, environment modelling
 - **Status:** In Progress
 - **Link:** https://github.com/MuhammadZakiAhmad/reasoning_vs_nonreasoning_llm_comparison
 - Exploring where is the most "concentration/attention" of the model when given the same prompt, but reasoning turned on Vs off.
-- It will help in terms of Explanable AI (xAI), to understand how attention patterns differ when modle is a non reasoning vs non reasoning one and ALSO model puts different attention when deliberating Vs answering. 
+- It will help in terms of Explainable AI (xAI), to understand how attention patterns differ when modle is a non reasoning vs non reasoning one and ALSO model puts different attention when deliberating Vs answering. 
 
 ### Reasoning Vs Non Reasoning LLM Model's Attention Comparison
 
