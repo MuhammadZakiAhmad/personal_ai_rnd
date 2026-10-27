@@ -60,7 +60,7 @@ Predictive learning, temporal dynamics, environment modelling
 - Exploring where is the most "concentration/attention" of the model when given the same prompt, but reasoning turned on Vs off.
 - It will help in terms of Explainable AI (xAI), to understand how attention patterns differ when modle is a non reasoning vs non reasoning one and ALSO model puts different attention when deliberating Vs answering. 
 
-### Reasoning Vs Non Reasoning LLM Model's Attention Comparison
+### LLM Disobedience: Studying Conflict between training and Prompt Instructions in LLMs
 
 - **Status:** Complete
 - **Link:** [Demonstration of LLM Disobedience: Training Vs Prompt Instructions Conflict](https://github.com/MuhammadZakiAhmad/demonstration_LLM_Disobedience)
