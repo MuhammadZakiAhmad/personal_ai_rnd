@@ -49,7 +49,7 @@ Predictive learning, temporal dynamics, environment modelling
 ### ii) THOUGHTCOMM: Latent Communication Among Multi-Agent LLMs
 
 - **Status:** Paused
-- **Link:** [THOUGHTCOMM: LATENT COMMUNICATION AMONG MULTI AGENTS LLMS](https://github.com/MuhammadZakiAhmad/personal_ai_rnd/tree/main/RESEARCH_Thought%20Transfer%20Among%20Multi-Agents%20via%20Shared%20Vector%20Space)
+- **Link:** [THOUGHTCOMM: Latent communication among multi agents llms](https://github.com/MuhammadZakiAhmad/personal_ai_rnd/tree/main/RESEARCH_Thought%20Transfer%20Among%20Multi-Agents%20via%20Shared%20Vector%20Space)
 - Exploring communication between LLM agents through learned latent representations rather than natural-language messages.
 - Reimplementing the core ideas using sparse autoencoders and lightweight adapters to investigate whether specialized latent representations can serve as an efficient communication space between agents, further scaling was paused due to compute constraints and OOM on colab. I am currently looking for a workaround via quantization and training only the ending layer via LoRA.
 
