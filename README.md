@@ -112,29 +112,14 @@ The world-model experiment explores whether a model can learn useful representat
 
 In addition to foundation-model implementations, I have worked on applied computer vision and machine learning systems.
 
-### [Football Match Analysis](https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject)
-
-Object detection, multi-object tracking, team assignment using K-Means clustering, and ball-possession analysis from football match footage. Uses YOLOv8 and ByteTrack.
-
-### [Virtual Try-On / Digital Mannequin](https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops)
-
-Exploration of 3D human reconstruction and virtual apparel visualization using PIFuHD and deep learning-based human modelling techniques.
-
-### [AI Physiotherapy Trainer](https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-)
-
-Real-time human pose estimation for rehabilitation exercise monitoring, repetition counting, and feedback.
-
-### [Automatic Number Plate Recognition](https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8)
-
-Computer vision pipeline combining vehicle detection, license-plate localization, object tracking, and OCR.
-
-### [Human Emotion Detection](https://github.com/MuhammadZakiAhmad/HumanEmotionDetection)
-
-Image classification on FER-2013 for recognition of seven facial expressions.
-
-### [Chest Cancer Classification](https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC)
-
-End-to-end machine learning pipeline incorporating data versioning, experiment tracking, model development, and deployment.
+| Implementation | Description |
+|---|---|
+| [Football Match Analysis](https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject) | Object detection, multi-object tracking, team assignment using K-Means clustering, and ball-possession analysis from football match footage. Uses YOLOv8 and ByteTrack. |
+| [Virtual Try-On / Digital Mannequin](https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops) | Exploration of 3D human reconstruction and virtual apparel visualization using PIFuHD and deep learning-based human modelling techniques. |
+| [AI Physiotherapy Trainer](https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-) | Real-time human pose estimation for rehabilitation exercise monitoring, repetition counting, and feedback. |
+| [Automatic Number Plate Recognition](https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8) | Computer vision pipeline combining vehicle detection, license-plate localization, object tracking, and OCR. |
+| [Human Emotion Detection](https://github.com/MuhammadZakiAhmad/HumanEmotionDetection) | Image classification on FER-2013 for recognition of seven facial expressions. |
+| [Chest Cancer Classification](https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC) | End-to-end machine learning pipeline incorporating data versioning, experiment tracking, model development, and deployment. |
 
 ---
 
