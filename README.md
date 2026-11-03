@@ -70,7 +70,7 @@ Predictive learning, temporal dynamics, environment modelling
   
 # First-Principles Implementations
 
-A central focus of this repository is implementing modern AI architectures and their underlying components rather than relying exclusively on high-level abstractions.
+These are my hands-on step by step implementations of different architectures, the main focus was to try to do them in raw pytorch to understand each part of the architecture better thus developing a low level understanding of them before i carried out advanced work.
 
 ## Large Language Models
 
