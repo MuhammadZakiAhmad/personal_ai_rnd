@@ -6,8 +6,6 @@ This repository documents my exploration of modern artificial intelligence throu
 
 I use step by step hands on implementation as a way to develop a deeper understanding of the architectural, mathematical, and computational foundations underlying modern AI systems.
 
-> **Scope:** This repository contains a combination of educational implementations, architectural reproductions, and applied projects. Implementations of existing architectures are intended for learning and experimentation and are not presented as original model contributions.
-
 ---
 ## Work Description
 
